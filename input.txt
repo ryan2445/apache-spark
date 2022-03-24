@@ -1,0 +1,4 @@
+This is a text file with some words that are going to be counted in spark using simple map/reduce functions
+This is a text file with some words that are going to be counted in spark using simple map/reduce functions
+This is a text file with some words that are going to be counted in spark using simple map/reduce functions
+This is a text file with some words that are going to be counted in spark using simple map/reduce functions
